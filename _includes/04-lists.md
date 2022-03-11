@@ -1,2 +1,2 @@
-smart watch
-hoodie
+- smart watch
+- hoodie
